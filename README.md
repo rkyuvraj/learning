@@ -1,2 +1,2 @@
 # learning
-learning stuffs
+Things that I am learning
